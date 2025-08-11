@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+This is for causing conflicts with the branch "main"
